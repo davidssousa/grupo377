@@ -1,0 +1,45 @@
+@font-face {
+    font-family: museo;
+    src: url(../fonts/museo-sans-300.otf);
+}
+
+.font-museo {
+    font-family: museo, sans-serif; 
+}
+
+
+
+
+@media only screen and (max-device-width: 480px) {
+    h1 {
+        font-size: 0.1;
+    }    
+}
+
+.logo_grupo_xs {
+    height: 50px;
+}
+
+.logo_grupo_md {
+    height: 70px;
+}
+
+.font-grupo377 {
+    font-family: Museo-Sans-300, sans-serif;
+    font-weight:normal;
+}
+
+.font-grupo377-mobile {
+    line-height : 1.3em;
+    font-size: 1em;
+    font-family: Museo-Sans-300, sans-serif;
+}
+
+.espacamento-padrao {
+    line-height : 2em;
+}
+
+.paragrafo {
+    text-indent: 1.5em;
+}
+
